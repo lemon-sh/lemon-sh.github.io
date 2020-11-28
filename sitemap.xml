@@ -7,6 +7,10 @@
         <loc>https://lemon-sh.github.io/posts/</loc>
     </url>
     <url>
+        <loc>https://lemon-sh.github.io/posts/hackintosh-in-2020/</loc>
+        <lastmod>2020-11-21</lastmod>
+    </url>
+    <url>
         <loc>https://lemon-sh.github.io/posts/page/1/</loc>
     </url>
     <url>
@@ -17,9 +21,21 @@
         <loc>https://lemon-sh.github.io/tags/</loc>
     </url>
     <url>
+        <loc>https://lemon-sh.github.io/tags/hackintosh/</loc>
+    </url>
+    <url>
+        <loc>https://lemon-sh.github.io/tags/hackintosh/page/1/</loc>
+    </url>
+    <url>
         <loc>https://lemon-sh.github.io/tags/meta/</loc>
     </url>
     <url>
         <loc>https://lemon-sh.github.io/tags/meta/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://lemon-sh.github.io/tags/operating-systems/</loc>
+    </url>
+    <url>
+        <loc>https://lemon-sh.github.io/tags/operating-systems/page/1/</loc>
     </url>
 </urlset>
