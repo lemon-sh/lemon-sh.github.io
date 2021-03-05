@@ -1,2 +1,3 @@
 User-agent: *
+Allow: /
 Sitemap: https://lemon-sh.github.io/sitemap.xml
